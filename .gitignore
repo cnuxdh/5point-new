@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.rar
+5point.vcproj
+*.user
+5point.vcxproj.filters
